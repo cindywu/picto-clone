@@ -10,7 +10,7 @@ export default function Page() {
       <div className={"p-2"}>Tickets now available!</div>
       <div className={"flex justify-end p-2"}>
         <button className={"border border-black p-2 uppercase"}>
-          > Picto Conference
+          Picto Conference
         </button>
       </div>
       <div className={"m-2 h-48 bg-gray-300"}></div>
